@@ -12,13 +12,13 @@
 -Languages and Tools:
 <p>
 <img src="img/java.png" width="40" height="40" />&nbsp;
-<img src="img/hashtag.png" width="40" height="40" />
-<img src="img/python.png" width="40" height="40" />
-<img src="img/mysql.png" width="40" height="40" />
-<img src="img/html-5.png" width="40" height="40" />
-<img src="img/css.png" width="40" height="40" />
-<img src="img/javascript.png" width="40" height="40" />
-<img src="img/react.png" width="40" height="40" />
+<img src="img/hashtag.png" width="40" height="40" />&nbsp;
+<img src="img/python.png" width="40" height="40" />&nbsp;
+<img src="img/mysql.png" width="40" height="40" />&nbsp;
+<img src="img/html-5.png" width="40" height="40" />&nbsp;
+<img src="img/css.png" width="40" height="40" />&nbsp;
+<img src="img/javascript.png" width="40" height="40" />&nbsp;
+<img src="img/react.png" width="40" height="40" />&nbsp;
 <img src="img/unity-icon.png" width="40" height="40" />
 </p>
 
