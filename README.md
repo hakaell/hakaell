@@ -21,7 +21,7 @@
 <img src="img/python.png" width="30" height="30" />
 <img src="img/mysql.png" width="30" height="30" />
 <img src="img/html-5.png" width="30" height="30" />
-<img src="img/css.png" width="30" height="30" />
+<img src="img/css.png" width="40" height="40" />
 <img src="img/javascript.png" width="30" height="30" />
 <img src="img/react.png" width="30" height="30" />
 
