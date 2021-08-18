@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with publishing I created games
 <!---
 - 💬 Ask me about ...-->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="linkedin.png" width="20" height="20" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="img/linkedin.png" width="20" height="20" /></a>
   
   
   
@@ -16,7 +16,7 @@
   
 -Languages and Tools:
 
-<img src="react.png" width="25" height="25" />
+<img src="img/react.png" width="25" height="25" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
