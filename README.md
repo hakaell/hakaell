@@ -5,9 +5,15 @@
 - 🌱 I’m currently learning 3D HyperCasual Games on Unity
 - 👯 I’m looking to collaborate on I created hyper casual games on Unity
 - 🤔 I’m looking for help with publishing I created games
-- 💬 Ask me about ...
+<!---
+- 💬 Ask me about ...-->
 - 📫 How to reach me: 
-  <img src="linkedin.png" alt="drawing" style="width:2px;height:2px;"/>
+  <img src="linkedin.png" width="2" height="2" />
+  
+  
+  
+  
+  
 -Languages and Tools:
 
 
