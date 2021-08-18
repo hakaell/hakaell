@@ -8,7 +8,7 @@
 <!---
 - 💬 Ask me about ...-->
 - 📫 How to reach me: 
-  <img src="linkedin.png" width="2" height="2" />
+  <img src="linkedin.png" width="20" height="20" />
   
   
   
