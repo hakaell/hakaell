@@ -26,7 +26,7 @@
 </p>
 
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
 
 
 
