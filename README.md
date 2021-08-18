@@ -9,14 +9,9 @@
 - 💬 Ask me about ...-->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="img/linkedin.png" width="20" height="20" /></a>
   
-  
-  
-  
-  
-  
 -Languages and Tools:
 <p>
-<img src="img/java.png" width="40" height="40" />
+<img src="img/java.png" width="40" height="40" />&nbsp;
 <img src="img/hashtag.png" width="40" height="40" />
 <img src="img/python.png" width="40" height="40" />
 <img src="img/mysql.png" width="40" height="40" />
