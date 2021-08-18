@@ -24,7 +24,7 @@
 <img src="img/css.png" width="40" height="40" />
 <img src="img/javascript.png" width="40" height="40" />
 <img src="img/react.png" width="40" height="40" />
-
+<img src="img/unity-icon.png" width="40" height="40" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
