@@ -8,6 +8,7 @@
 <!---
 - 💬 Ask me about ...-->
 - 📫 How to reach me: 
+
  <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="linkedin.png" width="20" height="20" /></a>
   
   
