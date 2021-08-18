@@ -8,6 +8,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<--
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakaell)](https://github.com/hakaell/github-readme-stats)
 -->
