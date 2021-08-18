@@ -15,7 +15,7 @@
   
   
 -Languages and Tools:
-
+<p>
 <img src="img/java.png" width="25" height="25" />
 <img src="img/hashtag.png" width="25" height="25" />
 <img src="img/python.png" width="25" height="25" />
@@ -25,7 +25,7 @@
 <img src="img/javascript.png" width="25" height="25" />
 <img src="img/react.png" width="25" height="25" />
 
-
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
 
