@@ -16,7 +16,7 @@
   
 -Languages and Tools:
 
-<img src="react.png" width="30" height="30" />
+<img src="react.png" width="25" height="25" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakaell)](https://github.com/hakaell/github-readme-stats)
