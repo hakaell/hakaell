@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with publishing I created games
 <!---
 - 💬 Ask me about ...-->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="img/linkedin.png" width="20" height="20" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="img/linkedin.png" width="40" height="40" /></a>
   
 -Languages and Tools:
 <p>
