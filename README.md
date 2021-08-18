@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with publishing I created games
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  
+  <img src="linkedin.png" alt="drawing" style="width:200px;"/>
 -Languages and Tools:
 
 
