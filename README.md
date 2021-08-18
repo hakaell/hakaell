@@ -9,8 +9,8 @@
 - 💬 Ask me about ...-->
 - 📫 How to reach me: <p> 
   <a href="https://www.linkedin.com/in/hakankarakoca/" title="linkedin"><img src="img/linkedin.png" width="40" height="40" /></a>&nbsp;
-  <a href="hkn.37.1994@gmail.com" title="gmail"><img src="img/gmail.png" width="40" height="40" /></a>&nbsp;
-  <a href="hakael_37@hotmail.com" title="hotmail"><img src="img/outlook.png" width="40" height="40" /></a>
+  <a href="mailto: hkn.37.1994@gmail.com" title="gmail"><img src="img/gmail.png" width="40" height="40" /></a>&nbsp;
+  <a href="mailto: hakael_37@hotmail.com" title="hotmail"><img src="img/outlook.png" width="40" height="40" /></a>
   </p>
 - Languages and Tools:
 <p>
