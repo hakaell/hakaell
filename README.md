@@ -12,7 +12,7 @@
   <a href="hkn.37.1994@gmail.com" title="gmail"><img src="img/gmail.png" width="40" height="40" /></a>&nbsp;
   <a href="hakael_37@hotmail.com" title="hotmail"><img src="img/outlook.png" width="40" height="40" /></a>
   </p>
--Languages and Tools:
+- Languages and Tools:
 <p>
 <img src="img/java.png" width="40" height="40" />&nbsp;
 <img src="img/hashtag.png" width="40" height="40" />&nbsp;
