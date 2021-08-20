@@ -1,4 +1,4 @@
-### Hi I'm a Software Engineer 👋
+### Hi I'm a Computer Engineer 👋
 
 
 - 🔭 I’m currently working on Unity
